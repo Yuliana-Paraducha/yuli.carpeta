@@ -1,0 +1,68 @@
+.logo {
+    width: 10px;
+    height: auto;
+    object-fit: contain;
+    margin-left: 10px; /* Agrega margen izquierdo según tus necesidades */
+    margin top: 10px;
+}
+
+
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: ;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding-bottom: 50px;
+    padding-left: 120px;
+    
+
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0;
+}
+
+.nav-list li {
+    display: inline;
+    margin-right: 250px;
+padding-left: 10px;
+}
+
+.nav-list a {
+    text-decoration:solid;
+    color: black;
+    font-weight: bold;
+ 
+}
+
+/* link*/
+.enlace-uno {
+    text-decoration: none;
+}
+
+.enlace-uno:link{
+    text-decoration: underline;
+}
+
+/*hover*/
+
+.enlace-dos{
+    color:burlywood;
+    text-decoration: overline;
+}
+
+.enlace-dos:hover{
+    color: blueviolet;
+ text-decoration: none;
+}
+
+/*visited*/
+.enlace-dos:visited{
+    color: blueviolet;
+}
+
+
+
